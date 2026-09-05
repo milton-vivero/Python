@@ -6,7 +6,7 @@
 
 ## 🎯 Objetivo de la Migración
 
-Migrar el motor de juego original desarrollado en **Java** (usando probablemente Swing/AWT) a **Python** utilizando `tkinter`, manteniendo:
+Migrar el motor de juego original desarrollado en **Java** (en mi epoca de estudiante) a **Python** utilizando `tkinter`, manteniendo:
 
 - ✅ La estructura del mapa arcade simétrico.
 - ✅ La lógica de colisiones y detección de muros.
@@ -151,7 +151,7 @@ python PacMan.py
 
 ## 👤 Autor
 
-**Milton Vivero** — Human Resources / Desarrollo
+**Milton Vivero** — Data Analitycs / business systems analyst
 
 > *Proyecto migrado con fines educativos y de preservación del gameplay clásico.*
 
